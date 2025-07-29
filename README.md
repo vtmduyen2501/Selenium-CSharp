@@ -1,2 +1,2 @@
 # itsm-autotest
-Automation code
+Automation code demo
